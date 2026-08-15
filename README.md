@@ -19,8 +19,7 @@ A mini Python project that extracts COVID-19 data from Worldometers, cleans the 
 
 ## Files
 
-* `covid_scraper.py` — Python script for web scraping and data cleaning.
-* `Data.csv` — Cleaned dataset.
+- `covid_19_web_scraping.py` — Python script for web scraping and data cleaning.* `Data.csv` — Cleaned dataset.
 
 ## Skills Practiced
 
